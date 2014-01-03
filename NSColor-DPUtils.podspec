@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "NSColor-DPUtils"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "In development."
   s.homepage     = "http://dpostigo.com"
   s.license      = 'BSD'
